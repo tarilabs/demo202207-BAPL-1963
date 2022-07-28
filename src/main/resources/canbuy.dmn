@@ -1,11 +1,1 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_9E5059CC-CE2F-43D0-807E-39E2FD925C40" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_FD71ACDB-554D-4602-9ECB-C723CF70E025" name="canbuy" expressionLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_9E5059CC-CE2F-43D0-807E-39E2FD925C40">
-  <dmn:extensionElements/>
-  <dmndi:DMNDI>
-    <dmndi:DMNDiagram>
-      <di:extension>
-        <kie:ComponentsWidthsExtension/>
-      </di:extension>
-    </dmndi:DMNDiagram>
-  </dmndi:DMNDI>
-</dmn:definitions>
+<?xml version="1.0" ?><dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_9E5059CC-CE2F-43D0-807E-39E2FD925C40" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_FD71ACDB-554D-4602-9ECB-C723CF70E025" name="canbuy" expressionLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_9E5059CC-CE2F-43D0-807E-39E2FD925C40"><dmn:description>demonstrates structural typing in DMN</dmn:description><dmn:extensionElements/><dmn:itemDefinition id="_AADA91E1-6F7F-459D-8356-79906DC0150E" name="tPerson" isCollection="false"><dmn:itemComponent id="_51AA3574-F021-4CFA-AABD-520FE423E4BD" name="name" isCollection="false"><dmn:typeRef>string</dmn:typeRef></dmn:itemComponent><dmn:itemComponent id="_7ABA0EAF-A8FD-4707-A8DD-3DA1EAF72925" name="age" isCollection="false"><dmn:typeRef>number</dmn:typeRef></dmn:itemComponent><dmn:itemComponent id="_56517068-40A6-4F8D-9F47-2F43118EC27A" name="allowed" isCollection="false"><dmn:typeRef>boolean</dmn:typeRef></dmn:itemComponent></dmn:itemDefinition><dmndi:DMNDI><dmndi:DMNDiagram id="_1555FCD6-E80B-40CE-93DF-67FB81DDBEC7" name="DRG"><di:extension><kie:ComponentsWidthsExtension/></di:extension></dmndi:DMNDiagram></dmndi:DMNDI></dmn:definitions>
