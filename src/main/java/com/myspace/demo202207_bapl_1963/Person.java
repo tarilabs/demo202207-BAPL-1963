@@ -11,6 +11,10 @@ public class Person implements java.io.Serializable {
 	private java.lang.String name;
 	private java.lang.Integer age;
 	private java.lang.Boolean allowed;
+	
+	public String toString() {
+	    return "Person("+ name+", "+age+", "+allowed+")";
+	}
 
 	public Person() {
 	}
